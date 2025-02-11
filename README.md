@@ -23,6 +23,15 @@ const skills = {
 - **LinkedIn**: [in/ritiktayal](https://www.linkedin.com/in/ritik-tayal/)
 - **Email**: ritiktayal@gmail.com
 
+## ❤️‍🔥 Favorite Quotes
+
+- Don't let perfect be the enemy of the good.
+- Not everyone who works hard is rewarded. But, all those who succeed have worked hard!
+- Sometimes I'm real cool, but sometimes I could be a real asshole. I think everyone is like that.
+- I’m normally not a praying man, but if you’re up there, please save me Superman.
+- The world looks different through a smiling face and a crying face, you know? That is, if you have the power to smile through difficult times, then you have nothing to fear. Even hell becomes heaven for you.
+- Happiness depends on each person. If you think you're happy, then you must be happy.
+
 <!--
 ## Hi there 👋
 
