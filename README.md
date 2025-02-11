@@ -2,11 +2,14 @@
 
 > Analyst @ Blackrock | Software Engineer | Techonology Enthusiast
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ritiktayal)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ritiktayal@gmail.com)
+
 ## 🛠️ Technical Stack
 ```javascript
 const skills = {
-    languages: ['JavaScript', 'Python'],
-    frameworks: ['Node.js', 'Django', 'FastAPI']
+    languages: [ 'JavaScript', 'Python', 'Lua' ],
+    frameworks: [ 'Node.js', 'Django', 'FastAPI' ]
 };
 ```
 
