@@ -1,6 +1,6 @@
 # Ritik Tayal
 
-> Analyst @ Blackrock | Software Engineer | Techonology Enthusiast
+> Analyst @ BlackRock | Software Engineer | Technology Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ritiktayal)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ritiktayal@gmail.com)
@@ -23,7 +23,7 @@ const skills = {
 - **LinkedIn**: [in/ritiktayal](https://www.linkedin.com/in/ritik-tayal/)
 - **Email**: ritiktayal@gmail.com
 
-## ❤️‍🔥 Favorite Quotes
+## 🔥 Favorite Quotes
 
 - Don't let perfect be the enemy of the good.
 - Not everyone who works hard is rewarded. But, all those who succeed have worked hard!
